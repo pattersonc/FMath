@@ -1,0 +1,7 @@
+_ReSharper*/
+*/bin/
+*/obj/
+TestResults/
+*resharper.user
+*.ignoreme
+*.user
